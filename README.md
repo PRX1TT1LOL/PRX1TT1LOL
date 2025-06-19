@@ -23,7 +23,7 @@
     int root1 = cbrt(num1);
     int root2 = sqrt(sqrt(num2));
 
-    printf("Hallo, %s are my initials.\n", initials);
+    printf("Hello! %s are my initials.\n", initials);
     printf("%d is a number and it's cube root is %d.\n", num1, root1);
     printf("%i is also a number and it's 4th root is %i.\n", num2, root2);
 

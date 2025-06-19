@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @PRX1TT1LOL
+- 👋 Hi, I’m @PRX1TT1LOL.
 - 👀 I’m interested in Game Development and Programming.
 - 🌱 I’m currently learning a couple of programming languages like C, C++ and others.
 - 💞️ I’m looking to forward to create my own programming languages and other stuff. Its gonna be better, modern, performant, efficient and cleaner versions of C and C++!
-- 📫 How to reach me: (Not available yet!)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am probably stupid and don't know what I'm doing right now
+- 📫 How to reach me: ...
+- 😄 Pronouns: He/Him/His.
+- ⚡ Fun fact: I am probably stupid and don't know what I'm doing right now.
 
  ```cpp
 #include <iostream>
@@ -15,8 +15,8 @@
 
  int main(void) {
     
-    // nani
-    // some c code
+    // nani.
+    // some c code.
     char initials[] = "P.B.";
     int num1 = 328509;
     int num2 = 22667121;

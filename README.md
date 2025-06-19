@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am probably stupid and don't know what I'm doing right now
 
- ```c
+ ```cpp
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

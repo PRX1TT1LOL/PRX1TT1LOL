@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I am probably stupid and don't know what I'm doing right now
 
  ```c
- #include <iostream>
+#include <iostream>
 #include <cstdio>
 #include <cstdlib>
 #include <math.h>

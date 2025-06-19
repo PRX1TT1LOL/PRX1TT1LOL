@@ -16,7 +16,8 @@
  int main(void) {
     
     // nani
-    char initials[] = "N.A.";
+    // some c code
+    char initials[] = "P.B.";
     int num1 = 328509;
     int num2 = 22667121;
     int root1 = cbrt(num1);
